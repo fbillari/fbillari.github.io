@@ -9,8 +9,8 @@ redirect_from:
 
 I am a Postdoctoral Associate at the [ILR School](https://www.ilr.cornell.edu/) at Cornell University. I received my PhD in Economics from [Cornell University](https://economics.cornell.edu/) in 2026, and my BSc and MSc in Economics from [Bocconi University](https://www.unibocconi.eu/).
 
-My research interests are in **applied theory**, **public economics**, **political economy**, and **industrial organization**. I use tools from mechanism design and information economics to study how institutions are designed and how they shape behavior.
+My research interests are in **applied microeconomics**, **public economics**, **political economy**, and **industrial organization**. I use tools from mechanism design and information economics to study how institutions are designed and how they shape behavior.
 
-In my job market paper, [*Don't Try Again: Screening Through Attempt Limits*](https://www.dropbox.com/scl/fi/lfiqb88plrpk2ue6ch97l/Don-t-Try-Again-Screening-Through-Attempt-Limits.pdf?rlkey=l8glktletyzizeo5rv0pv1jiy&st=x13qbyi6&dl=0), I study limits on the number of attempts at licensing and civil-service exams, such as the U.S. bar exam, as a way to screen candidates without monetary transfers. In other work, I study how the revenue structure of local news outlets affects political bias.
+In my job market paper, [*Don't Try Again: Screening Through Attempt Limits*](/files/Billari_Dont_Try_Again.pdf), I study limits on the number of attempts at licensing and civil-service exams, such as the U.S. bar exam, as a way to screen candidates without monetary transfers. In other work, I study how the revenue structure of local news outlets affects political bias.
 
 You can find my papers on the [Research](/research/) page and my [CV here](/files/Francesco_Billari_CV.pdf).
