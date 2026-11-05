@@ -30,6 +30,6 @@ How competition among jurisdictions for mobile professionals shapes attempt limi
 
 A dynamic model of repeated attempts, calibrated to U.S. bar exam data, that decomposes the effect of attempt limits into the exclusion of candidates who exhaust their attempts and candidates' responses to the limit.
 
-**[Visual Media Bias: Evidence from Computer Vision and Machine Learning](/files/Billari_Visual_Media_Bias.pdf)** (Note)
+**[Visual Media Bias: Evidence from Computer Vision and Machine Learning](/files/Billari_Visual_Media_Bias.pdf)**
 
 Whether newspapers use less flattering photographs of politicians from the opposing party, measured with computer vision and identified from the moment a candidate becomes the presumptive nominee.
