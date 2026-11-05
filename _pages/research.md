@@ -4,6 +4,10 @@ title: "Research"
 author_profile: true
 ---
 
+<style>
+  .page__content p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+</style>
+
 ## Job Market Paper
 
 **[Don't Try Again: Screening Through Attempt Limits](/files/Billari_Dont_Try_Again.pdf)**

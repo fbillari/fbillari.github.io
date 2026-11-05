@@ -14,3 +14,10 @@ My research interests are in **applied microeconomics**, **public economics**, *
 In my job market paper, [*Don't Try Again: Screening Through Attempt Limits*](/files/Billari_Dont_Try_Again.pdf), I study limits on the number of attempts at licensing and civil-service exams, such as the U.S. bar exam, as a way to screen candidates without monetary transfers. In other work, I study how the revenue structure of local news outlets affects political bias.
 
 You can find my papers on the [Research](/research/) page and my [CV here](/files/Francesco_Billari_CV.pdf).
+
+## Awards and Fellowships
+
+- Dissertation-Year Sage Doctoral Fellowship, Cornell University (2024–2025)
+- Howard and Abby Milstein Graduate Teaching Assistantship Award, Cornell University (2022)
+- Rob Lynch Prize (Distinction in First-Year PhD Econometrics), Cornell University (2020)
+- First-Year Sage Doctoral Fellowship, Cornell University (2019–2020)
