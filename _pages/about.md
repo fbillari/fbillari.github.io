@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Associate at the [ILR School](https://www.ilr.cornell.edu/) at Cornell University. I received my PhD in Economics from [Cornell University](https://economics.cornell.edu/) in 2026, and my BSc and MSc in Economics from [Bocconi University](https://www.unibocconi.eu/).
+I am a Postdoctoral Associate at the ILR School at Cornell University. I received my PhD in Economics from Cornell University in 2026, and my BSc and MSc in Economics from Bocconi University.
 
 My research interests are in **applied microeconomics**, **public economics**, **political economy**, and **industrial organization**. I use tools from mechanism design and information economics to study how institutions are designed and how they shape behavior.
 
