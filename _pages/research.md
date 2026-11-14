@@ -10,7 +10,8 @@ author_profile: true
 
 ## Job Market Paper
 
-**[Don't Try Again: Screening Through Attempt Limits](/files/Billari_Dont_Try_Again.pdf)**
+**[Don't Try Again: Screening Through Attempt Limits](/files/Billari_Dont_Try_Again.pdf)**<br>
+*Job Market Paper*
 
 Licensing and civil-service examinations often cap the number of times a candidate may take them. While economists have long studied how tests should be designed to reveal information, I use mechanism design theory to model the attempt limit as a device for screening candidates' skills through the dynamic allocation of testing opportunities. In a two-period model, agents privately know their skill, and low-skilled agents can acquire skills between attempts. An attempt limit grants a single attempt but lets the agent choose when to use it: high-skilled agents take the test at once, whereas low-skilled agents postpone it and acquire skills in the meantime. The limit sorts agents before testing them, but it is incentive compatible only if the test is not too lenient, and it denies high-skilled agents a second chance. I characterize when the attempt limit is the optimal testing policy, first taking the leniency and accuracy of the test as given, then choosing leniency jointly with the allocation of attempts, and finally choosing costly accuracy as well. I show that, consistent with the model, attempt limits on the U.S. bar exam are tightest at intermediate passing scores and rare where the exam is lenient.
 
