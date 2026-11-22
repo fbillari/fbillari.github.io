@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Postdoctoral Associate at the ILR School at Cornell University. I received my PhD in Economics from Cornell University in 2026, and my BSc and MSc in Economics from Bocconi University.
 
-My research interests are in applied microeconomics, labor economics, public economics, industrial organization, and political economy.
+My research interests are in applied microeconomics, at the intersection of labor economics, public economics, industrial organization, and political economy.
 
 My main research agenda studies attempt limits in standardized testing. In my [job market paper](/files/Billari_Dont_Try_Again.pdf), I study limits on the number of attempts at licensing and civil-service exams, such as the U.S. bar exam, as a way to screen candidates' skills. In ongoing work, I quantify the channels through which attempt limits raise the passing rates of repeat takers, and I study how licensing authorities set passing standards and attempt limits when professionals can move across jurisdictions and scores are portable.
 
